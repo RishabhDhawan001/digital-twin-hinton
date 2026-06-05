@@ -1,8 +1,10 @@
 # Geoffrey Hinton Digital Twin
 
-A Digital Twin of Geoffrey Hinton that emulates his knowledge, teaching style, reasoning patterns, and research expertise using Retrieval-Augmented Generation (RAG), persistent memory, and persona engineering.
+I have built a Digital Twin of Geoffrey Hinton that emulates his knowledge, teaching style, reasoning patterns, and research expertise using Retrieval-Augmented Generation (RAG), persistent memory, and persona engineering.
 
 This project was developed as part of the AIMS DTU Summer Project and aims to create an interactive AI system capable of responding in a manner consistent with Geoffrey Hinton's published work, lectures, interviews, and public viewpoints.
+
+I chose Geoffrey Hinton as Geoffrey Hinton is widely regarded as one of the pioneers of modern deep learning. His contributions, including backpropagation, deep belief networks, dropout, and AlexNet, have fundamentally shaped the field of artificial intelligence. Creating a digital twin of Geoffrey Hinton allows users to interact with decades of AI knowledge through a conversational interface and learn complex concepts in a style inspired by one of the most influential AI researchers in history.
 
 ---
 
@@ -32,17 +34,9 @@ The Geoffrey Hinton Digital Twin acts as an AI-powered conversational assistant 
 * Producing responses grounded in Hinton's research contributions.
 * Providing optional voice output through text-to-speech.
 
-Example queries:
-
-* What is backpropagation?
-* Why did AlexNet become successful?
-* Explain dropout intuitively.
-* What are Geoffrey Hinton's views on AI safety?
-* Do large language models understand language?
-
 ---
 
-# Tech Stack
+# Technology Infrastructure
 
 ## Large Language Model
 
